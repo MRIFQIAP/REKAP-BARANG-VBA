@@ -1,0 +1,1 @@
+Aplikasi ini dikembangkan untuk membantu proses rekapitulasi dan pencatatan data barang secara otomatis menggunakan Macro VBA (Visual Basic for Applications) di Microsoft Excel. Aplikasi ini dirancang khusus untuk mendukung operasional Subang Outdoor, sebuah usaha yang bergerak di bidang penyewaan perlengkapan outdoor.
